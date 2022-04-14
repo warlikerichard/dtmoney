@@ -1,1 +1,1 @@
-Please, install all the dependencies running the command yarn.
+Please, install all the dependencies by running the command yarn.
